@@ -1,0 +1,30 @@
+﻿  my-game.cpp
+C:\Users\taxes\Downloads\my-game\my-game.cpp(49,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(52,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(55,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(60,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(63,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(66,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(145,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(151,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(156,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(192,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(198,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(204,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(256,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(262,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(268,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(278,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(284,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(290,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(308,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(311,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(314,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(317,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(320,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(323,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(31,9): warning C4101: 'score': unreferenced local variable
+C:\Users\taxes\Downloads\my-game\my-game.cpp(358,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(360,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\taxes\Downloads\my-game\my-game.cpp(364,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  my-game.vcxproj -> C:\Users\taxes\Downloads\my-game\Debug\my-game.exe
